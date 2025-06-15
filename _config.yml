@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 梁某银
-subtitle: ''
+title: 梁某银的blog
+subtitle: 我是梁某银，一个平平无奇的90后，现居深圳。热爱思考与分享，用文字连接思想，既有深度，也有温度，想和你共同成长。
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 梁某银
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
