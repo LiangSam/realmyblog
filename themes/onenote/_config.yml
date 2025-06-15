@@ -12,7 +12,7 @@ valine:
   appKey:  #your leancloud appKey
   meta: nick,mail,link #valine comment header info
   placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
-  avatar: mp # gravatar style https://valine.js.org/avatar
+  avatar: https://img.liangmouyin.com/2025/06/9032d5e1a40003b89235d6e5e6f261a0.jpg
   pageSize: 10 # comment list page size
   lang: zh-CN
   recordIP: false # valine record ip (true/false)
